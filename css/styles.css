@@ -1,0 +1,133 @@
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #a43737;
+}
+
+h2 {
+  margin: 0 auto 50px auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+  color: #a43737;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #572121;
+}
+
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #df4d19;
+}
+
+hr {
+  border: dotted #7D7D7D 8px;
+  border-bottom: none;
+  width: 3%;
+  margin: 100px auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 550px;
+}
+
+.profile {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.top-container {
+  background-color: #fbd64f;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.middle-container {
+  background-color: #f3f8ff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.bottom-container {
+  background-color: grey;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  line-height: .5;
+  font-family: Arial;
+  color: white;
+}
+
+.skills {
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.assess {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.write {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.design {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.get-in-touch {
+  text-align: center;
+}
+
+.contact-me {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.footer-link {
+  color: white;
+}
+
+.copyright {
+  color: white;
+}
